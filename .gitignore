@@ -6,3 +6,6 @@ venv/
 
 # Linux
 *.swp
+
+#tmp
+photos/
